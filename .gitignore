@@ -1,0 +1,4 @@
+tspush
+tsmerge
+*.o
+*.ts
