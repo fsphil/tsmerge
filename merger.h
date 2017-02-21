@@ -19,7 +19,7 @@
 #define _SEGMENT_PCR_LIMIT (90000 / 2) /* 500ms (90kHz clock) */
 
 /* Length of MX packet */
-#define MX_PACKET_LEN (0x20 + TS_PACKET_SIZE)
+#define MX_PACKET_LEN (0x10 + TS_PACKET_SIZE)
 
 /* Packet structure: (little endian)
  *
